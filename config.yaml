@@ -1,0 +1,99 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Yuliang Zhang | 张宇亮"
+theme: "hugo-ivy"
+googleAnalytics: ""
+disqusShortname: "张宇亮"
+ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 30
+
+permalinks:
+  cn: "/cn/:year/:month/:slug/"
+  en: "/en/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "博客"
+      url: "/cn/"
+      weight: 4
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 4
+    - name: "中文"
+      url: "/cn/"
+      weight: 5
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "博客"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "English"
+      url: "/en/"
+      weight: 5
+
+
+
+params:
+  description: "Personal website of Yuliang Zhang; 张宇亮的个人网站"
+  footer: "&copy; [Yuliang Zhang](/) 2016 - 2017 | [Github](https://github.com/zyllifeworld) | [Tel](18710161218)"
+  disqusURL: "/"
+  customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
+  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo_c.png"
+      url: "/"
+      alt: "Yuliang Zhang"
+      tag: ""
+
+  author:
+    en: "Yuliang Zhang"
+    cn: "张宇亮"
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "订阅"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
