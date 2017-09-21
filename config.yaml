@@ -68,7 +68,7 @@ params:
   footer: "&copy; [Yuliang Zhang](/) 2016 - 2017 | [Github](https://github.com/zyllifeworld) | [Tel](18710161218)"
   disqusURL: "/"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
-  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  githubContentURL: "https://github.com/zyllifeworld/zyllifeworld/edit/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
