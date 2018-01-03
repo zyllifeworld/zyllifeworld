@@ -26,3 +26,9 @@ slug: "cn/about"
 
 ## 目前正在学习的软件与语言
 R、Python、MATLAB
+
+## Things I Can talk 5 minutes
+![](/images/things_5mins_talk.jpg)
+<center>未完待续......欢迎来撕</center>
+
+<a href='/images/things_5mins_talk.jpg'>点此查看大图</a>
