@@ -1,4 +1,4 @@
-baseurl: "https://zyllifeworld.netlify.com/"
+baseurl: "http://www.zyllifeworld.com"
 languageCode: "en-us"
 title: "Yuliang Zhang | 张宇亮"
 theme: "hugo-ivy"
@@ -69,7 +69,7 @@ menu:
 params:
   description: "Personal website of Yuliang Zhang; 张宇亮的个人网站"
   footer: "&copy; [Yuliang Zhang](/) 2016 - 2017 | [Github](https://github.com/zyllifeworld) | [email](zyl@genetics.ac.cn)"
-  disqusURL: "https://zyllifeworld.netlify.com/"
+  disqusURL: "http://www.zyllifeworld.com"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
   githubContentURL: "https://github.com/zyllifeworld/zyllifeworld/edit/master/content/"
 
