@@ -2,7 +2,7 @@ baseurl: "http://www.zyllifeworld.com"
 languageCode: "en-us"
 title: "Yuliang Zhang | 张宇亮"
 theme: "hugo-ivy"
-googleAnalytics: ""
+googleAnalytics: "UA-112002531-1"
 disqusShortname: "yuliang"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
