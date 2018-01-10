@@ -28,7 +28,7 @@ menu:
     - name: "博客"
       url: "/cn/"
       weight: 4
-    - name: "沙龙"
+    - name: "沙龙/Salon"
       url: "/paper/"
       weight: 5
   en:
