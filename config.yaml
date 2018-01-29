@@ -68,7 +68,7 @@ menu:
 
 params:
   description: "Personal website of Yuliang Zhang; 张宇亮的个人网站"
-  footer: "&copy; [Yuliang Zhang](/) 2016 - 2017 | [Github](https://github.com/zyllifeworld) | [email](zyl@genetics.ac.cn)"
+  footer: "&copy; [Yuliang Zhang](/) 2016 - 2017 | [Github](https://github.com/zyllifeworld) | [email](zyl@genetics.ac.cn) | [豆瓣](https://www.douban.com/people/136620163/)"
   disqusURL: "http://www.zyllifeworld.com"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
   githubContentURL: "https://github.com/zyllifeworld/zyllifeworld/edit/master/content/"
