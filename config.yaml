@@ -63,6 +63,9 @@ menu:
     - name: "English"
       url: "/en/"
       weight: 5
+    - name: "帝京岁时新记"
+      url: "/Beijing/"
+      weight: 6
 
 
 
