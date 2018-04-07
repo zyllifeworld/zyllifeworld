@@ -60,12 +60,16 @@ menu:
     - name: "简历"
       url: "/cn/vitae/"
       weight: 4
-    - name: "English"
-      url: "/en/"
+    - name: "工坊"
+      url: "/art/"
       weight: 5
-    - name: "帝京岁时新记"
+    - name: "岁时记"
       url: "/Beijing/"
       weight: 6
+    - name: "English"
+      url: "/en/"
+      weight: 7
+
 
 
 
